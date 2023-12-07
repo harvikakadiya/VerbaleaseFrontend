@@ -57,6 +57,13 @@ const Translator = () => {
             <option value="en">English</option>
             <option value="es">Spanish</option>
             <option value="fr">French</option>
+            <option value="hi">Hindi</option>
+            <option value="de">German</option>
+            <option value="el">Greek</option>
+            <option value="ja">Japanese</option>
+            <option value="pt">Portuguese</option>
+            <option value="ru">Russian</option>
+            <option value="tr">Turkish</option>
           </select>
         </div>
         <div>
