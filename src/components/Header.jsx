@@ -23,7 +23,7 @@ const Header = () => {
     <header className="header">
       <div className="logo">
         <img
-          src={process.env.REACT_APP_API_URL+'/public/dm.png'} //do change
+          src={'/dm.png'}
           alt="Logo"
         />
         <h2>VerbalEase-AI</h2>

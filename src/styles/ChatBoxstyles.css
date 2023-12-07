@@ -10,7 +10,7 @@ body {
 }
 
 .chat-container {
-  max-width: 2000px;
+  width: 800px;
   margin: 20px auto;
   background-color: #fff;
   border-radius: 8px;

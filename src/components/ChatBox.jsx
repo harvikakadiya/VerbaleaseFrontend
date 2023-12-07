@@ -47,6 +47,7 @@ const ChatBox = () => {
   return (
     <div className="paraphraser-container">
       <Header />
+      <h1>AI - Chat</h1>
       <div className="chat-container">
         <Sidebar />
         <div className="chat-box" id="chat-box">
